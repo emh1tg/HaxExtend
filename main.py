@@ -24,8 +24,8 @@ urlLogin = 'https://hax.co.id/login'
 SpeechToTextURL = 'https://speech-to-text-demo.ng.bluemix.net/'
 
 # secret
-USERNAME = os.environ['USERNAME']
-PASSWORD = os.environ['PASSWORD']
+USERNAME = "usertest"
+PASSWORD = "passwordtest"
 
 print("user1111111"+USERNAME)
 print("11111111111111111111")
