@@ -26,6 +26,10 @@ SpeechToTextURL = 'https://speech-to-text-demo.ng.bluemix.net/'
 # secret
 USERNAME = os.environ['USERNAME']
 PASSWORD = os.environ['PASSWORD']
+
+print(USERNAME)
+print("11111111111111111111")
+print(PASSWORD)
 try:
     BARKKEY = os.environ['BARKKEY']
     barkKey = 1
